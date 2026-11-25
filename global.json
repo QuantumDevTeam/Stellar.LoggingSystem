@@ -1,5 +1,5 @@
 {
   "msbuild-sdks": {
-    "Stellar.Sdk": "0.4.1"
+    "Stellar.Sdk": "0.4.2"
   }
 }
