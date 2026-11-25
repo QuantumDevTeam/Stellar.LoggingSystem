@@ -1,0 +1,8 @@
+{
+  "$schema": "https://quantumdevteam.github.io/StellarEngine-Core/schemas/stellar.module.schema.json",
+  "Id": "Stellar.LoggingSystem",
+  "Version": "0.9.0",
+  "Level": "CoreModule",
+  "Description": "logging system of the engine",
+  "Dependencies": []
+}
